@@ -1,0 +1,210 @@
+[
+   {
+      "oldKeyName": "EyesWide_L",
+      "newKeyName": "EyeWideLeft"
+   },
+   {
+      "oldKeyName": "EyesWide_R",
+      "newKeyName": "EyeWideRight"
+   },
+   {
+      "oldKeyName": "Eye_LookDown_L",
+      "newKeyName": "EyeLookDownLeft"
+   },
+   {
+      "oldKeyName": "Eye_LookDown_R",
+      "newKeyName": "EyeLookDownRight"
+   },
+   {
+      "oldKeyName": "Eye_LookLeft_L",
+      "newKeyName": "EyeLookOutLeft"
+   },
+   {
+      "oldKeyName": "Eye_LookLeft_R",
+      "newKeyName": "EyeLookInRight"
+   },
+   {
+      "oldKeyName": "Eye_LookRight_L",
+      "newKeyName": "EyeLookInLeft"
+   },
+   {
+      "oldKeyName": "Eye_LookRight_R",
+      "newKeyName": "EyeLookOutRight"
+   },
+   {
+      "oldKeyName": "Eye_LookUp_L",
+      "newKeyName": "EyeLookUpLeft"
+   },
+   {
+      "oldKeyName": "Eye_LookUp_R",
+      "newKeyName": "EyeLookUpRight"
+   },
+   {
+      "oldKeyName": "Eye_Squeeze_Both",
+      "newKeyName": "EyeSquint"
+   },
+   {
+      "oldKeyName": "Eye_Squeeze_L",
+      "newKeyName": "EyeSquintLeft"
+   },
+   {
+      "oldKeyName": "Eye_Squeeze_R",
+      "newKeyName": "EyeSquintRight"
+   },
+   {
+      "oldKeyName": "Blink_L",
+      "newKeyName": "EyeClosedLeft"
+   },
+   {
+      "oldKeyName": "Blink_R",
+      "newKeyName": "EyeClosedRight"
+   },
+   {
+      "oldKeyName": "CheekPuff",
+      "newKeyName": "CheekPuff"
+   },
+   {
+      "oldKeyName": "LipTrack_CheekPuff_L",
+      "newKeyName": "CheekPuffLeft"
+   },
+   {
+      "oldKeyName": "LipTrack_CheekPuff_R",
+      "newKeyName": "CheekPuffRight"
+   },
+   {
+      "oldKeyName": "LipTrack_CheeksIn",
+      "newKeyName": "CheekSuck"
+   },
+   {
+      "oldKeyName": "LipTrack_CheeksIn_L",
+      "newKeyName": "CheekSuckLeft"
+   },
+   {
+      "oldKeyName": "LipTrack_CheeksIn_R",
+      "newKeyName": "CheekSuckRight"
+   },
+   {
+      "oldKeyName": "LipTrack_JawFoward",
+      "newKeyName": "JawForward"
+   },
+   {
+      "oldKeyName": "LipTrack_JawLeft",
+      "newKeyName": "JawLeft"
+   },
+   {
+      "oldKeyName": "LipTrack_JawOpen",
+      "newKeyName": "JawOpen"
+   },
+   {
+      "oldKeyName": "LipTrack_JawRight",
+      "newKeyName": "JawRight"
+   },
+   {
+      "oldKeyName": "LipTrack_LipCornerLowDown_L",
+      "newKeyName": "MouthLowerDownLeft"
+   },
+   {
+      "oldKeyName": "LipTrack_LipCornerLowDown_R",
+      "newKeyName": "MouthLowerDownRight"
+   },
+   {
+      "oldKeyName": "LipTrack_LowerLipRollOut",
+      "newKeyName": "MouthLowerDown"
+   },
+   {
+      "oldKeyName": "LipTrack_LipCornerTopUp_L",
+      "newKeyName": "MouthUpperUpLeft"
+   },
+   {
+      "oldKeyName": "LipTrack_LipCornerTopUp_R",
+      "newKeyName": "MouthUpperUpRight"
+   },
+   {
+      "oldKeyName": "Frown",
+      "newKeyName": "MouthFrown"
+   },
+   {
+      "oldKeyName": "LipTrack_LipFrownLeft",
+      "newKeyName": "MouthFrownLeft"
+   },
+   {
+      "oldKeyName": "LipTrack_LipFrownRight",
+      "newKeyName": "MouthFrownRight"
+   },
+   {
+      "oldKeyName": "Smile",
+      "newKeyName": "MouthSmile"
+   },
+   {
+      "oldKeyName": "LipTrack_LipSmileLeft",
+      "newKeyName": "MouthSmileLeft"
+   },
+   {
+      "oldKeyName": "LipTrack_LipSmileRight",
+      "newKeyName": "MouthSmileRight"
+   },
+   {
+      "oldKeyName": "LipTrack_LowerLipIn",
+      "newKeyName": "MouthRollLower"
+   },
+   {
+      "oldKeyName": "LipTrack_LowerLipUp",
+      "newKeyName": "MouthRaiserLower"
+   },
+   {
+      "oldKeyName": "LipTrack_MouthDown_NoJaw",
+      "newKeyName": "MouthClosed"
+   },
+   {
+      "oldKeyName": "LipTrack_Pout_Pucker",
+      "newKeyName": "LipFunnel"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueDown",
+      "newKeyName": "TongueDown"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueDownLeft",
+      "newKeyName": "TongueDownLeftMorph"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueDownRight",
+      "newKeyName": "TongueDownRightMorph"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueExtend",
+      "newKeyName": "TongueOut"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueLeft",
+      "newKeyName": "TongueLeft"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueRight",
+      "newKeyName": "TongueRight"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueUp",
+      "newKeyName": "TongueUp"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueUpLeft",
+      "newKeyName": "TongueUpLeftMorph"
+   },
+   {
+      "oldKeyName": "LipTrack_TongueUpRight",
+      "newKeyName": "TongueUpRightMorph"
+   },
+   {
+      "oldKeyName": "LipTrack_Tongue_Roll",
+      "newKeyName": "TongueRoll"
+   },
+   {
+      "oldKeyName": "LipTrack_UpperLipIn",
+      "newKeyName": "MouthRollUpper"
+   },
+   {
+      "oldKeyName": "LipTrack_UpperLipRollOut",
+      "newKeyName": "MouthRaiserUpper"
+   }
+]
